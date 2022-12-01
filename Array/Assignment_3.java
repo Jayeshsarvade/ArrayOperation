@@ -1,3 +1,5 @@
+//Take array value through keyboards as a integer and display those number in ascending order or descending order. (nested loop) 
+
 import java.util.Scanner;
 public class Assignment_3 {
 
