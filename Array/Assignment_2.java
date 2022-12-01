@@ -1,3 +1,6 @@
+//Take string array value through keyboards and display all names. 
+
+
 import java.util.Scanner;
 
 public class Assignment_2 {
