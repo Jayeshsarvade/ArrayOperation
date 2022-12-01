@@ -1,3 +1,5 @@
+//Take array value through keyboards as a integer and display sum of all number, sum even number, sum of odd numbers.
+
 import java.util.Scanner;
 public class ArrayOperation {
 
